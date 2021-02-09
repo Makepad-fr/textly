@@ -1,5 +1,7 @@
 # textly
 
+[![Join the chat at https://gitter.im/Makepad-fr/textly](https://badges.gitter.im/Makepad-fr/textly.svg)](https://gitter.im/Makepad-fr/textly?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A new flutter plugin project.
 
 ## Getting Started
